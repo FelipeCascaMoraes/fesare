@@ -1,0 +1,9 @@
+Coloque aqui os arquivos OFICIAIS da logo da Fesare:
+
+  fesare-logo.png          (obrigatorio) logo original
+  fesare-logo-dark.png     (opcional) versao oficial para fundo escuro
+  fesare-logo-compact.png  (opcional) simbolo para o menu recolhido
+  fesare-favicon.png       (opcional) icone da aba do navegador
+
+Outros formatos (ex.: .svg): ajuste os caminhos em src/brand/brand.ts.
+O sistema nao redesenha a marca. Sem o arquivo, exibe so o nome "Fesare".
